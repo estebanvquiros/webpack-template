@@ -1,10 +1,6 @@
-# Webpack Template
+# 🚀 Getting Started
 
-A pre-configured Webpack template ready to use for your projects.
-
-## 🚀 Getting Started
-
-### Installation
+## Installation
 
 Install all dependencies:
 
@@ -12,7 +8,7 @@ Install all dependencies:
 npm install
 ```
 
-### Development
+## Development
 
 Run the development server with hot reload:
 
@@ -20,7 +16,7 @@ Run the development server with hot reload:
 npm run dev
 ```
 
-### Production
+## Production
 
 Build the project for production:
 
