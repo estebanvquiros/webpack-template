@@ -1,2 +1,29 @@
-# webpack-template
-Preconfigured Webpack template for JavaScript projects.
+# Webpack Template
+
+A pre-configured Webpack template ready to use for your projects.
+
+## 🚀 Getting Started
+
+### Installation
+
+Install all dependencies:
+
+```bash
+npm install
+```
+
+### Development
+
+Run the development server with hot reload:
+
+```bash
+npm run dev
+```
+
+### Production
+
+Build the project for production:
+
+```bash
+npm run build
+```
