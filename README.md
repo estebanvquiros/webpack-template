@@ -5,7 +5,7 @@
 Install all dependencies:
 
 ```bash
-npm install
+pnpm install
 ```
 
 ## Development
@@ -13,7 +13,7 @@ npm install
 Run the development server with hot reload:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 ## Production
@@ -21,5 +21,5 @@ npm run dev
 Build the project for production:
 
 ```bash
-npm run build
+pnpm run build
 ```
