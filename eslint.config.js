@@ -1,6 +1,7 @@
 import js from "@eslint/js";
 import globals from "globals";
 import { defineConfig, globalIgnores } from "eslint/config";
+import eslintConfigPrettier from "eslint-config-prettier/flat";
 
 export default defineConfig([
   globalIgnores(["dist"]),
@@ -17,4 +18,5 @@ export default defineConfig([
     files: ["*.{js,mjs,cjs}"],
     languageOptions: { globals: globals.node },
   },
+  eslintConfigPrettier,
 ]);
