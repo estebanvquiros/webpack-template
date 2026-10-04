@@ -2,7 +2,8 @@
   "name": "webpack-template",
   "version": "1.0.0",
   "description": "Preconfigured Webpack template for JavaScript projects.",
-  "main": "index.js",
+  "private": true,
+  "type": "module",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
     "dev": "webpack serve --config webpack.dev.js",
